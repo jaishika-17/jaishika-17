@@ -17,5 +17,6 @@
 ### 📫 Connect with me
 - GitHub: https://github.com/jaishika-17
 - LinkedIn: www.linkedin.com/in/jaishika-singh-a44245337
+- EMail:jaishika.singh17@gmail.com
 
  ---
